@@ -1,7 +1,7 @@
 {
-  "name": "sni-xhttp",
+  "name": "my-xhttp-relay",
   "version": "1.0.0",
-  "description": "Serverless XHTTP relay for Xray/V2Ray on Vercel (Edge Runtime)",
+  "description": "My personal relay",
   "private": true,
   "license": "MIT"
 }
